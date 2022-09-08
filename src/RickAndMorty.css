@@ -1,0 +1,12 @@
+.main {
+  background-color: rgba(0, 0, 0, 0.836);
+  color: aliceblue;
+}
+.character {
+  display: inline-block;
+  margin: 15px 15px;
+  align-items: center;
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
